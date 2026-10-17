@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mirmakarim"><img src="https://img.shields.io/badge/LinkedIn-mirmakarim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ahsanmakarim@gmail.com"><img src="https://img.shields.io/badge/Email-ahsanmakarim%40gmail.com-1f3864?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MirMakarim&style=for-the-badge&color=2a78d6&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
