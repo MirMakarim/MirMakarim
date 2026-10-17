@@ -47,7 +47,11 @@ I turn manual reports into data products that run on their own. My background is
 
 ---
 
-### 🚀 &nbsp;Featured projects
+### 📄 &nbsp;Resume projects
+
+<p>
+  <a href="https://github.com/stars/MirMakarim/lists/resume-projects"><img src="https://img.shields.io/badge/View_the_list_on_GitHub-Resume_Projects-0b5394?style=for-the-badge" alt="Resume Projects list"/></a>
+</p>
 
 <table>
   <tr>
@@ -93,6 +97,47 @@ I turn manual reports into data products that run on their own. My background is
     </td>
   </tr>
 </table>
+
+<!--
+==========================================================================
+ MORE PROJECT SECTIONS · hidden until they have content.
+ To show a section: move it out of this comment block and fill in the cards.
+==========================================================================
+
+### 🧩 &nbsp;Complex builds
+
+<p><a href="https://github.com/stars/MirMakarim/lists/complex-builds"><img src="https://img.shields.io/badge/View_the_list-Complex_Builds-1f3864?style=for-the-badge" alt="Complex Builds list"/></a></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MirMakarim/REPO"><img src="assets/projects/IMAGE.png" alt="PROJECT"/></a>
+      <h4>PROJECT NAME</h4>
+      One-line description.<br/>
+      <sub><code>Tool</code> <code>Tool</code> <code>Tool</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      (second card or leave empty)
+    </td>
+  </tr>
+</table>
+
+### 🧪 &nbsp;Learning and experiments
+
+| Project | What I tried | Tools |
+|:--|:--|:--|
+| [REPO](https://github.com/MirMakarim/REPO) | One line | `Tool` `Tool` |
+
+<sub>Full list: <a href="https://github.com/stars/MirMakarim/lists/learning-experiments">Learning and Experiments</a></sub>
+
+### 💡 &nbsp;Inspiration
+
+Repositories by others that I learn from:
+
+- [owner/repo](https://github.com/owner/repo) · why it is useful
+
+<sub>Full list: <a href="https://github.com/stars/MirMakarim/lists/inspiration">Inspiration</a></sub>
+-->
 
 ---
 
